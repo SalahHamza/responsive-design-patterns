@@ -26,7 +26,7 @@ Key to this layout is the way content moves about, instead of reflowing and drop
 
 Rather than stacking content vertically, the off canvas pattern places less frequently used content—perhaps navigation or app menus—off screen, only showing it when the screen size is large enough, and on smaller screens, content is only a click away.
 
-**[Example](/build/pages/off-canvas/index.html)**
+**[Example](https://rawgit.com/SalahHamza/responsive-design-patterns/master/build/pages/off-canvas/index.html)**
 
 ## Example - Hometown Page
 
