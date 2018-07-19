@@ -1,0 +1,21 @@
+{
+  "name": "responsive-design-patterns",
+  "version": "1.0.0",
+  "description": "The mostly fluid pattern consists primarily of a fluid grid. On large or medium screens, it usually remains the same size, simply adjusting the margins on wider screens.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-copy": "~0.8.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "~0.5.0",
+    "grunt-markdown": "^0.7.0",
+    "grunt-mkdir": "~0.1.2"
+  },
+  "author": "Salah Hamza",
+  "license": "ISC"
+}
