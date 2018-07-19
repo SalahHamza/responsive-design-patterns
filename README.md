@@ -6,13 +6,13 @@ The mostly fluid pattern consists primarily of a fluid grid. On large or medium 
 
 On smaller screens, the fluid grid causes the main content to reflow, while columns are stacked vertically. One major advantage of this pattern is that it usually only requires one breakpoint between small screens and large screens.
 
-**[Example](https://salahhamza.github.io/responsive-design-patterns/build/pages/mostly-fluid/index.html)**
+**[Example](https://rawgit.com/SalahHamza/responsive-design-patterns/master/build/pages/mostly-fluid/index.html)**
 
 ## Column Drop
 
 On full-width **column drop** starts with a multi-column layout and ends up with a single column layout, dropping columns along the way as screen sizes get narrower (i.e. not enough space for the content). Unlike the **Mostly Fluid** pattern, the overall size of elements in this layout tend to stay consistent.
 
-**[Example](https://salahhamza.github.io/responsive-design-patterns/build/pages/column-drom/index.html)**
+**[Example](https://rawgit.com/SalahHamza/responsive-design-patterns/master/build/pages/column-drom/index.html)**
 
 ## Layout Shifter
 
@@ -20,7 +20,7 @@ This pattern does the most to adapt across different screen sizes. That is, diff
 
 Key to this layout is the way content moves about, instead of reflowing and dropping below other columns. Due to the significant differences between each major breakpoint, it is more complex to maintain and likely involves changes within elements, not just overall content layout.
 
-**[Example 1](https://salahhamza.github.io/responsive-design-patterns/build/pages/layout-shifter/example_1/index.html)**, **[Example 2](https://salahhamza.github.io/responsive-design-patterns/build/pages/layout-shifter/example_2/index.html)**, **[Example 3](https://salahhamza.github.io/responsive-design-patterns/build/pages/layout-shifter/example_3/index.html)**
+**[Example 1](https://rawgit.com/SalahHamza/responsive-design-patterns/master/build/pages/layout-shifter/example_1/index.html)**, **[Example 2](https://rawgit.com/SalahHamza/responsive-design-patterns/master/build/pages/layout-shifter/example_2/index.html)**, **[Example 3](https://rawgit.com/SalahHamza/responsive-design-patterns/master/build/pages/layout-shifter/example_3/index.html)**
 
 ## Off Canvas
 
@@ -30,7 +30,7 @@ Rather than stacking content vertically, the off canvas pattern places less freq
 
 ## Example - Hometown Page
 
-**[First Layout](https://salahhamza.github.io/responsive-design-patterns/build/pages/rdp-hometown/first_layout/index.html)**, **[Second Layout](https://salahhamza.github.io/responsive-design-patterns/build/pages/rdp-hometown/second_layout/index.html)**
+**[First Layout](https://rawgit.com/SalahHamza/responsive-design-patterns/master/build/pages/rdp-hometown/first_layout/index.html)**, **[Second Layout](https://rawgit.com/SalahHamza/responsive-design-patterns/master/build/pages/rdp-hometown/second_layout/index.html)**
 
 ------------------------
 #### Useful links

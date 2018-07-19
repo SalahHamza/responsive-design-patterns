@@ -11,11 +11,6 @@ module.exports = function(grunt) {
 				}],
 				options: {
 					template: 'src/templates/main.jst',
-					preCompile: (src, context) => {
-						/* getting rid of the GH page base URL */
-						const baseUrl = 'https://salahhamza.github.io/responsive-design-patterns';
-						return src.replace(new RegExp(baseUrl, 'g'), '');
-					},
 					markdownOptions: {
 						gfm: true,
 						highlight: 'manual'
